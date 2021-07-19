@@ -2,4 +2,6 @@
 A set of algorithms made by me for university classes
 
 ## Language
-All of them are written in C++
+ - All of them are written in C++
+
+ - The content is in Polish
