@@ -1,7 +1,7 @@
-# Algorithms-Data_Structures
-A set of algorithms made by me for university classes
+# Algorithms-Data Structures
+A set of algorithmic tasks
 
-## List of issues
+## Table of contents
 - Sorting algorithms
   - Insertion sort
   - Quicksort
@@ -28,8 +28,12 @@ A set of algorithms made by me for university classes
 - Minimum spanning tree
 - Hash Arrays
 
+## Usage
+All of the programs are single files, which return results in standard output. Just compile individually. Even online compilers can be used.
+
+## Technology
+ - All of them are written in C++
+ - Own implementation
 
 ## Language
- - All of them are written in C++
-
  - The content is in Polish

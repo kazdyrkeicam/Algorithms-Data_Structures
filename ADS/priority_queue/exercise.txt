@@ -1,0 +1,11 @@
+Zaimplementuj operacje kolejki priorytetowej przechowywanej w tablicy. Zaimplementuj następujące operacje:
+
+int top(int t[],int n);
+void pop(int t[], int &n);
+void push(int t[], int &n, int e);
+Operacja top powinna zwrócić największy element tablicy t, operacja pop usunąć największy element tablicy t, a operacja push wstawić do tablicy t element e. Argument n oznacza liczbę elementów przechowywanych w tablicy. Funkcje pop i push powinny aktualizować wartość n. Zakładamy, że tablica t ma wystarczający rozmiar i nie trzeba jej powiększać. Kolejkę można zaimplementować w dowolny poprawny sposób. W zadaniu nie można używać STL-a.
+
+Do sprawdzarki należy wkleić same definicji funkcji i ewentualnie nagłówek zawierający dyrektywę include i/lub ,,using namespace std''.
+
+Uwaga
+Program musi być próbą rozwiązania przedstawionego problemu. Programy, które będą próbowały zgadnąć rozwiązanie bez rozwiązania problemu (np. zgadując wynik) będą dyskwalifikowane.

@@ -1,0 +1,28 @@
+Napisz program, który sortuje otrzymaną w argumencie listę liczb całkowitych losowanych z podanego zakresu z jednostajnym rozkładem prawdopodobieństwa.
+
+Wejście
+Program na wejściu dostaje liczbę n elementów listy oraz liczby p i k początek i koniec przedziału do którego należą elementy listy a następnie n losowych liczb całkowitych z zakresu od p do k.
+
+0 < n <= 1000000
+-2000000 <= p <= k <= 2000000
+
+Wyjście
+Na standardowym wyjściu program powinien wypisać posortowane rosnąco elementy przetwarzanej listy.
+
+
+Przykłady
+Wejście
+6 -10 10
+-9
+0
+3
+10
+-10
+5
+Wyjście
+-10 -9 0 3 5 10
+Uwaga
+Magiczna linijka: ios_base::sync_with_stdio(false);
+
+
+Program musi być próbą rozwiązania przedstawionego problemu. Programy, które będą próbowały zgadnąć rozwiązanie bez rozwiązania problemu (np. zgadując wynik) będą dyskwalifikowane. W rozwiązaniu tego zadania nie można używać STL-a.
